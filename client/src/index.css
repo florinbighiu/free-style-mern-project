@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Roboto';
+  background-color: #292d64;
+}
+
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #6c646f #212452;
+}
+
+*::-webkit-scrollbar {
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #212452;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #6c646f;
+  border-radius: 10px;
+  border: 3px solid #212452;
+}
+
