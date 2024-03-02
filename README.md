@@ -17,7 +17,6 @@ Before running the application, make sure you have the following prerequisites i
 
 Node.js (at least version 14)
 npm (Node Package Manager)
-Getting Started
 Clone the repository to your local machine.
 
 bash
