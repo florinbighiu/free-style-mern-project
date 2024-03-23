@@ -17,12 +17,6 @@ Before running the application, make sure you have the following prerequisites i
 
 Node.js (at least version 14)
 npm (Node Package Manager)
-Clone the repository to your local machine.
-
-bash
-Copy code
-git clone <https://github.com/your-username/star-wars-galaxy-app.git>
-Navigate to the project directory.
 
 bash
 Copy code
@@ -51,10 +45,7 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with clear, descriptive messages.
 Push your changes to your fork.
 Submit a pull request to the main repository.
-License
-This project is licensed under the MIT License.
+
 
 Acknowledgments
 The Star Wars data used in this project is provided by the Star Wars API (SWAPI).
-Contact
-For questions or support, please contact Your Name.
